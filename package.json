@@ -1,0 +1,12 @@
+{
+  "scripts": {
+    "stat": "nodemon server"
+  },
+  "dependencies": {
+    "express": "^4.18.1",
+    "http-errors": "^2.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  }
+}
